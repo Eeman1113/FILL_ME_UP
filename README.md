@@ -52,6 +52,7 @@ Contributions are welcome! If you have ideas for improvements or bug fixes, open
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, contribute, and make your academic life a little more stress-free with FILL_ME_UP 記入! 🎓✨
-```
 
-Make sure to replace "Your API Key" in the code with your actual OpenAI API key. Additionally, customize the sections like "Getting Started," "Usage," and "Contribution" based on the specifics of your project.
+---
+
+Make sure to replace "Your API Key" in the code with your actual OpenAI API key.
